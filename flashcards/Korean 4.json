@@ -1,0 +1,43 @@
+[
+    {
+      "question": "네",
+      "answer": "Yes"
+    },
+    {
+      "question": "아니요",
+      "answer": "No"
+    },
+    {
+      "question": "우리",
+      "answer": "We"
+    },
+    {
+      "question": "오늘",
+      "answer": "Today"
+    },
+    {
+      "question": "어제",
+      "answer": "Yesterday"
+    },
+    {
+      "question": "내일",
+      "answer": "Tomorrow"
+    },
+    {
+      "question": "밤",
+      "answer": "Night"
+    },
+    {
+      "question": "아침",
+      "answer": "Morning"
+    },
+    {
+      "question": "왜",
+      "answer": "Why"
+    },
+    {
+      "question": "언제",
+      "answer": "When"
+    }
+  ]
+  
