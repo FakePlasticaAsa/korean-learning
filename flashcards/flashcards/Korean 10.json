@@ -1,0 +1,80 @@
+
+[
+    {
+      "question": "매우",
+      "answer": "very (formal)"
+    },
+    {
+      "question": "아주",
+      "answer": "very (casual)"
+    },
+    {
+      "question": "꽤",
+      "answer": "quite"
+    },
+    {
+      "question": "상당히",
+      "answer": "quite"
+    },
+    {
+      "question": "거의",
+      "answer": "almost"
+    },
+    {
+      "question": "빨리",
+      "answer": "fast"
+    },
+    {
+      "question": "천천히",
+      "answer": "slowly"
+    },
+    {
+      "question": "신중하게",
+      "answer": "carefully"
+    },
+    {
+      "question": "항상",
+      "answer": "always (formal)"
+    },
+    {
+      "question": "늘",
+      "answer": "always (casual)"
+    },
+    {
+      "question": "자주",
+      "answer": "frequently (regularly)"
+    },
+    {
+      "question": "흔히",
+      "answer": "frequently (common occurrence)"
+    },
+    {
+      "question": "보통",
+      "answer": "usually"
+    },
+    {
+      "question": "가끔",
+      "answer": "sometimes (occasionally, not often)"
+    },
+    {
+      "question": "때로는",
+      "answer": "sometimes (on certain occasions)"
+    },
+    {
+      "question": "좀처럼",
+      "answer": "seldom"
+    },
+    {
+      "question": "드물게",
+      "answer": "rarely"
+    },
+    {
+      "question": "결코",
+      "answer": "never (formal)"
+    },
+    {
+      "question": "절대",
+      "answer": "never (casual)"
+    }
+  ]
+  

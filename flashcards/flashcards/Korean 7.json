@@ -1,0 +1,40 @@
+
+[
+    {
+      "question": "친구",
+      "answer": "Friend"
+    },
+    {
+      "question": "가족",
+      "answer": "Family"
+    },
+    {
+      "question": "아빠",
+      "answer": "Dad"
+    },
+    {
+      "question": "엄마",
+      "answer": "Mom"
+    },
+    {
+      "question": "남자 친구",
+      "answer": "Boyfriend"
+    },
+    {
+      "question": "여자 친구",
+      "answer": "Girlfriend"
+    },
+    {
+      "question": "결혼",
+      "answer": "Marriage"
+    },
+    {
+      "question": "남편",
+      "answer": "Husband"
+    },
+    {
+      "question": "아내",
+      "answer": "Wife"
+    }
+  ]
+  

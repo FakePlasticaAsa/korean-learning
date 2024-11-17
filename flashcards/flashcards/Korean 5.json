@@ -1,0 +1,52 @@
+
+[
+    {
+      "question": "안녕하세요",
+      "answer": "Hello"
+    },
+    {
+      "question": "감사합니다",
+      "answer": "Thank you"
+    },
+    {
+      "question": "천만에요",
+      "answer": "You’re welcome"
+    },
+    {
+      "question": "잠시만요",
+      "answer": "Excuse me"
+    },
+    {
+      "question": "괜찮아요",
+      "answer": "Okay"
+    },
+    {
+      "question": "죄송합니다",
+      "answer": "I’m sorry"
+    },
+    {
+      "question": "주세요",
+      "answer": "Please give me"
+    },
+    {
+      "question": "몰라요",
+      "answer": "I don’t know"
+    },
+    {
+      "question": "알아요",
+      "answer": "I know"
+    },
+    {
+      "question": "이해해요",
+      "answer": "I understand"
+    },
+    {
+      "question": "좋아요",
+      "answer": "Good"
+    },
+    {
+      "question": "안 좋아요",
+      "answer": "Not good"
+    }
+  ]
+  
